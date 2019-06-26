@@ -36,5 +36,8 @@ All of the evaluated networks are strong but Polkadot is the clear choice for th
 ## Conclusion
 Using Substrate today, Dock will be able to begin developing the PoA solochain immediately. Dock is confident in the Parity team's proven track record of milestone deliveries and will be working closely with their team and Web3 Foundation if this proposal passes.
 
+## To Vote
+[Visit the voting dapp](https://app.dock.io/vote)
+
 ## Copyright
 Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
